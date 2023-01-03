@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="row">
-    <div class="col-sm-6 col-sm-offset-4 my-5">
+    <div class="col-sm-4 offset-sm-4 my-5">
         <form>
             <div class="form-group">
                 <label for="exampleInputEmail1">Email address</label>
